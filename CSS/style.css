@@ -223,6 +223,8 @@
   border-radius: 6px;
   margin-top: auto;
   font-weight: 600;
+  text-align: center;
+  text-decoration: none;
 }
 
 .row {
@@ -388,3 +390,4 @@ body {
   font-weight: bolder;
   color: #1DE88E;
 }
+
